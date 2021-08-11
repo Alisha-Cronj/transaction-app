@@ -1,0 +1,39 @@
+.App {
+  padding: 30px;
+}
+
+.FormMian-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px;
+  width: 19%;
+  margin: 20px auto;
+  background: #ffffff;
+
+  .inputDiv div {
+    margin-bottom: 10px;
+  }
+}
+
+.ReactTable .rt-tbody {
+  text-align: center !important;
+}
+
+.ReactTable .rt-tr-group {
+  margin: 10px 0 !important;
+  padding: 10px 0 !important;
+}
+
+.heading {
+  font-size: 30px;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    margin: 40px 0 20px 0;
+}
+
+.ReactTable .rt-thead .rt-th {
+  font-size: 25px !important;
+  padding: 15px 0 !important;
+}
